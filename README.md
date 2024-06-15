@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chawkhantko
-- 👀 I’m interested in programming and thinking
+- 👀 I’m interested in programming,thinking and problem solving
 - 🌱 I’m currently learning HTML/CSS and JavaScript
 - ⚡ Fun fact: coding
 
